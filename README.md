@@ -1,0 +1,2 @@
+# CS4050GROUPASSIGNMENT1
+Group assignment 1 for CS4050.
